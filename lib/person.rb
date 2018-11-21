@@ -1,3 +1,4 @@
-class Person
+class Person(name, )
   
 end
+
